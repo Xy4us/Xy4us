@@ -1,4 +1,4 @@
-# <p>Hi ![][def]My name is <span style="color: green">Ayush Kumar</span></p>
+# Hi ![][def]My name is Ayush Kumar
 
 ## Full Stack Developer | Responsive Web Designer | Dynamic Web Designer
 
