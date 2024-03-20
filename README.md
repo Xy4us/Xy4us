@@ -5,7 +5,7 @@
 i am a full stack developer
 
 - 🌍  I'm based in Greater Noida
-- ✉️  You can contact me at [sanbhutnik@gmailcom](mailto:sanbhutnik@gmailcom)
+- ✉️  You can contact me at [sanbhutnik@gmail.com](mailto:sanbhutnik@gmail.com)
 - 🤝  I'm open to collaborating on WebApp Projects
 - ⚡  3 am Coding vibe
 
