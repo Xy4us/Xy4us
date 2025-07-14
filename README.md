@@ -7,7 +7,7 @@ Full Stack Developer | Responsive Web Designer | Dynamic Web Designer
 i am a full stack developer
 
 * 🌍  I'm based in Greater Noida
-* 🖥️  See my portfolio at [Ayush Portfolio](http://ayush-portfolio-by-ayush.netlify.app)
+* 🖥️  See my portfolio at [Ayush Portfolio](https://ayush-portfolio-new.vercel.app/)
 * ✉️  You can contact me at [sanbhutnik@gmail.com](mailto:sanbhutnik@gmail.com)
 * 🤝  I'm open to collaborating on WebApp Projects
 * ⚡  3 am Coding vibe
